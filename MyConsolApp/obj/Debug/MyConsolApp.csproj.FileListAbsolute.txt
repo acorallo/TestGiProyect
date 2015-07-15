@@ -1,0 +1,6 @@
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\bin\Debug\MyConsolApp.exe.config
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\bin\Debug\MyConsolApp.exe
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\bin\Debug\MyConsolApp.pdb
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.csprojResolveAssemblyReference.cache
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.exe
+c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.pdb
