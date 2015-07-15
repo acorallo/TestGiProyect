@@ -4,3 +4,9 @@ c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyCons
 c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.csprojResolveAssemblyReference.cache
 c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.exe
 c:\users\andres.corallo\documents\visual studio 2013\Projects\MyConsolApp\MyConsolApp\obj\Debug\MyConsolApp.pdb
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\bin\Debug\MyConsolApp.exe.config
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\obj\Debug\MyConsolApp.exe
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\obj\Debug\MyConsolApp.pdb
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\bin\Debug\MyConsolApp.exe
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\bin\Debug\MyConsolApp.pdb
+C:\Temp\HitTest\OtherGitProyect\TestGiProyect\MyConsolApp\obj\Debug\MyConsolApp.csprojResolveAssemblyReference.cache
